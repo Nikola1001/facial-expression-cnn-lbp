@@ -1,0 +1,6 @@
+{
+  "type": "lbp_fusion",
+  "cnn": "no_lbp.json",
+  "lbp_expert": "lbp_expert.pt",
+  "lbp_weight": 0.2
+}

@@ -1,0 +1,11 @@
+{
+  "type": "flip_ensemble",
+  "checkpoints": [
+    "resnet18_lbp.pt",
+    "resnet18_lbp_regularized.pt"
+  ],
+  "weights": [
+    0.5,
+    0.5
+  ]
+}

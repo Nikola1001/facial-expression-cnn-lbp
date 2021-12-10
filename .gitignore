@@ -1,0 +1,11 @@
+data/
+artifacts/
+.work/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.idea/
+dist/
+*.pdf
+*.docx
